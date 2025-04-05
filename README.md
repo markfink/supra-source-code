@@ -1,4 +1,4 @@
-# Supra Source Code
+# Supra Network Source Code
 
 This repository contains a collection of closed-source smart contracts for the Supra Network and its associated protocols. These contracts have not been made available on the official Supra Network GitHub repository.
 
